@@ -19,7 +19,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
 
-  int duration = 300;
+  int duration = 400;
   double width = 0.0;
   double height = 0.0;
   bool isFavorite = false;
